@@ -26,10 +26,10 @@ For exporting the data as CSV file ...
     http://127.0.0.1:8000/api/export/malware_data
     http://127.0.0.1:8000/api/export/benign_data
     
+Rename .env.example to .venv and add the Virus Total API to it.
 
-Add the VirusTotal API key in virustotal/vtcheck.py
 
 # ISSUES
 
-    Public API Key of VirusTotal provides only 4 requests per minute and 1000 requests per day. Contact VirusTotal for increased requests limits (https://www.virustotal.com/gui/contact-us).  
+Public API Key of VirusTotal provides only 4 requests per minute and 1000 requests per day. Contact VirusTotal for increased requests limits (https://www.virustotal.com/gui/contact-us).  
 
