@@ -27,4 +27,3 @@ def check_hash_vt(hash):
         else :
             return "No_conclusion"
 
-print(check_hash_vt("c00d90c50a5e05d270b796645d5f12dee94a31ca94b8ddc90c91af1f9e208850"))
