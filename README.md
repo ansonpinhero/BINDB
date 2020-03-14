@@ -26,7 +26,7 @@ For exporting the data as CSV file ...
     http://127.0.0.1:8000/api/export/malware_data
     http://127.0.0.1:8000/api/export/benign_data
     
-Rename .env.example to .venv and add the Virus Total API to it.
+Rename .env.example to .env and add the Virus Total API to it.
 
 
 # ISSUES
